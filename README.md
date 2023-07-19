@@ -1,7 +1,7 @@
 # Credit Union Financial Health App
 
 ## Background
-My fintech consulting firm has built this tool to aid this large credit union's members evaluate their financial health. Members are able to assess their monthly budgets and then forecast a reasonably effective retirement plan based on their current holdings of cryptocurrencies, stocks, and bonds. 
+My fintech consulting firm has built this tool to aid this large credit union's members evaluate their financial health. Members are able to assess their monthly budgets and then forecast a reasonably effective retirement plan based on their current holdings of cryptocurrencies, stocks, and bonds. All the analysis was conducted in the financial-planner-checkpoint.ipynb.
 
 **Please read the below instructions prior to running the financial-planner-checkpoint.ipynb**.
 
@@ -15,6 +15,13 @@ My fintech consulting firm has built this tool to aid this large credit union's 
   	- Plot the probability distribution of each Monte Carlo simulations.
   	- Generate summary statistics for each Monte Carlo simulation.
 
-  
+## References
+- Monte Carlo Simulation:  MCForecastTools.py
+- Alpaca: Alpaca.markets
+- UC Berkeley Fintech Bootcamp
+
+## Resources
+- https://alpaca.markets/
+- MCForecastTools.py
 
 
